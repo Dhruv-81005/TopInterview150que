@@ -10,4 +10,4 @@ Majority Element  https://leetcode.com/problems/majority-element/description/?en
  Jump Game  https://leetcode.com/problems/jump-game/description/?envType=study-plan-v2&envId=top-interview-150
  Longest Substring Without Repeating Characters  https://leetcode.com/problems/longest-substring-without-repeating-characters/description/?envType=problem-list-v2&envId=string&
   Jump Game II  https://leetcode.com/problems/jump-game-ii/description/?envType=study-plan-v2&envId=top-interview-150
-
+H-Index  https://leetcode.com/problems/h-index/description/?envType=study-plan-v2&envId=top-interview-150
