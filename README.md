@@ -9,4 +9,5 @@ Majority Element  https://leetcode.com/problems/majority-element/description/?en
  Best Time to Buy and Sell Stock II  https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/?envType=study-plan-v2&envId=top-interview-150
  Jump Game  https://leetcode.com/problems/jump-game/description/?envType=study-plan-v2&envId=top-interview-150
  Longest Substring Without Repeating Characters  https://leetcode.com/problems/longest-substring-without-repeating-characters/description/?envType=problem-list-v2&envId=string&
+  Jump Game II  https://leetcode.com/problems/jump-game-ii/description/?envType=study-plan-v2&envId=top-interview-150
 
