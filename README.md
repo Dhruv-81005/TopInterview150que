@@ -14,3 +14,4 @@ H-Index  https://leetcode.com/problems/h-index/description/?envType=study-plan-v
  Insert Delete GetRandom O(1)  https://leetcode.com/problems/insert-delete-getrandom-o1/description/?envType=study-plan-v2&envId=top-interview-150
  Product of Array Except Self  https://leetcode.com/problems/product-of-array-except-self/description/?envType=study-plan-v2&envId=top-interview-150
  Gas Station  https://leetcode.com/problems/gas-station/description/?envType=study-plan-v2&envId=top-interview-150
+ Candy  https://leetcode.com/problems/candy/description/?envType=study-plan-v2&envId=top-interview-150
