@@ -21,6 +21,7 @@ H-Index  https://leetcode.com/problems/h-index/description/?envType=study-plan-v
     Length of Last Word  https://leetcode.com/problems/length-of-last-word/description/?envType=study-plan-v2&envId=top-interview-150
     Longest Common Prefix  https://leetcode.com/problems/longest-common-prefix/description/?envType=study-plan-v2&envId=top-interview-150
     Reverse Words in a String  https://leetcode.com/problems/reverse-words-in-a-string/description/?envType=study-plan-v2&envId=top-interview-150
+    Zigzag Conversion  https://leetcode.com/problems/zigzag-conversion/description/?envType=study-plan-v2&envId=top-interview-150
    
    
 
