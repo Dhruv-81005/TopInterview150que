@@ -23,6 +23,7 @@ H-Index  https://leetcode.com/problems/h-index/description/?envType=study-plan-v
     Reverse Words in a String  https://leetcode.com/problems/reverse-words-in-a-string/description/?envType=study-plan-v2&envId=top-interview-150
     Zigzag Conversion  https://leetcode.com/problems/zigzag-conversion/description/?envType=study-plan-v2&envId=top-interview-150
     Find the Index of the First Occurrence in a String  https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/?envType=study-plan-v2&envId=top-interview-150
+    Text Justification  https://leetcode.com/problems/text-justification/description/?envType=study-plan-v2&envId=top-interview-150
    
    
 
